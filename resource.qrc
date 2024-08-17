@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>7z.dll</file>
+        <file>7z.exe</file>
+        <file>favicon.ico</file>
+        <file>uac.manifest</file>
+        <file>getPerfectPath.bat</file>
+        <file>res.zip</file>
+        <file>down_arrow.png</file>
+    </qresource>
+</RCC>
